@@ -1,0 +1,31 @@
+<Order>
+    <ReferenceNum>ORD123456</ReferenceNum>
+    <CountryCode>US</CountryCode>
+    <Address>
+        <FullName>John Doe</FullName>
+        <AddressType>Residential</AddressType>
+        <AddressLine1>123 Main St</AddressLine1>
+        <AddressLine2>Apartment 4B</AddressLine2>
+    </Address>
+    <Customer>
+        <CustomerCode>CUST001</CustomerCode>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Phone>+11234567890</Phone>
+        <Email>john.doe@example.com</Email>
+    </Customer>
+    <OrderLines>
+        <OrderLine>
+            <ItemNum>ITEM001</ItemNum>
+            <ItemDescription>iPhone 12</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM002</ItemNum>
+            <ItemDescription>iPad Pro</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM003</ItemNum>
+            <ItemDescription>MacBook Air</ItemDescription>
+        </OrderLine>
+    </OrderLines>
+</Order>

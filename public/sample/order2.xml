@@ -1,0 +1,31 @@
+<Order>
+    <ReferenceNum>ORD123457</ReferenceNum>
+    <CountryCode>CA</CountryCode>
+    <Address>
+        <FullName>Jane Smith</FullName>
+        <AddressType>Business</AddressType>
+        <AddressLine1>456 Maple Ave</AddressLine1>
+        <AddressLine2>Suite 200</AddressLine2>
+    </Address>
+    <Customer>
+        <CustomerCode>CUST002</CustomerCode>
+        <FirstName>Jane</FirstName>
+        <LastName>Smith</LastName>
+        <Phone>+11234567891</Phone>
+        <Email>jane.smith@example.com</Email>
+    </Customer>
+    <OrderLines>
+        <OrderLine>
+            <ItemNum>ITEM004</ItemNum>
+            <ItemDescription>Surface Pro</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM005</ItemNum>
+            <ItemDescription>Galaxy Tab S7</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM006</ItemNum>
+            <ItemDescription>HP Spectre x360</ItemDescription>
+        </OrderLine>
+    </OrderLines>
+</Order>

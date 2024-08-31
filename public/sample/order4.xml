@@ -1,0 +1,31 @@
+<Order>
+    <ReferenceNum>ORD123459</ReferenceNum>
+    <CountryCode>AU</CountryCode>
+    <Address>
+        <FullName>Emily Davis</FullName>
+        <AddressType>Residential</AddressType>
+        <AddressLine1>321 Pine St</AddressLine1>
+        <AddressLine2></AddressLine2>
+    </Address>
+    <Customer>
+        <CustomerCode>CUST004</CustomerCode>
+        <FirstName>Emily</FirstName>
+        <LastName>Davis</LastName>
+        <Phone>+61123456789</Phone>
+        <Email>emily.davis@example.com</Email>
+    </Customer>
+    <OrderLines>
+        <OrderLine>
+            <ItemNum>ITEM010</ItemNum>
+            <ItemDescription>Samsung Galaxy S21</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM011</ItemNum>
+            <ItemDescription>OnePlus 9</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM012</ItemNum>
+            <ItemDescription>Lenovo Yoga 7i</ItemDescription>
+        </OrderLine>
+    </OrderLines>
+</Order>

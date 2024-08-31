@@ -1,0 +1,31 @@
+<Order>
+    <ReferenceNum>ORD123458</ReferenceNum>
+    <CountryCode>UK</CountryCode>
+    <Address>
+        <FullName>Michael Johnson</FullName>
+        <AddressType>Residential</AddressType>
+        <AddressLine1>789 Oak St</AddressLine1>
+        <AddressLine2></AddressLine2>
+    </Address>
+    <Customer>
+        <CustomerCode>CUST003</CustomerCode>
+        <FirstName>Michael</FirstName>
+        <LastName>Johnson</LastName>
+        <Phone>+441234567890</Phone>
+        <Email>michael.johnson@example.com</Email>
+    </Customer>
+    <OrderLines>
+        <OrderLine>
+            <ItemNum>ITEM007</ItemNum>
+            <ItemDescription>Dell XPS 13</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM008</ItemNum>
+            <ItemDescription>Apple Watch Series 6</ItemDescription>
+        </OrderLine>
+        <OrderLine>
+            <ItemNum>ITEM009</ItemNum>
+            <ItemDescription>Google Pixel 5</ItemDescription>
+        </OrderLine>
+    </OrderLines>
+</Order>
